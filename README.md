@@ -28,11 +28,11 @@ The dataset contains Japanese news articles with the following fields:
 - Association rule mining (Apriori / FP-Growth)
 
 ## Repository Structure
-'''
+```
 cs4412-project/
 ├── data/ # Dataset files (or placeholders if large)
 ├── notebooks/ # Analysis notebooks (future milestones)
 ├── README.md
-'''
+```
 ## Author
 - **Name:** Wyatt Bramblett  
