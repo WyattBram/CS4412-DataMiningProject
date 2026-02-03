@@ -34,5 +34,3 @@ cs4412-project/
 ├── notebooks/ # Analysis notebooks (future milestones)
 ├── README.md
 ```
-## Author
-- **Name:** Wyatt Bramblett  
