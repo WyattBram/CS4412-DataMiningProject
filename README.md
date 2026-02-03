@@ -1,5 +1,5 @@
 # CS 4412 Data Mining Project  
-**Pattern Discovery in Japanese News Articles**
+**Discovery of Linguistic Patterns in Japanese News Articles**
 
 ## Project Description
 This project explores hidden patterns in Japanese news articles using data mining techniques.  
