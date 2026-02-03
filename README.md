@@ -13,7 +13,7 @@ Because Japanese text does not contain whitespace between words, morphological a
 ## Dataset
 **Japanese Newspapers (2005–2021)**  
 - Source: Kaggle  
-- Link: https://www.kaggle.com/datasets/vyhuholl/japanese-newspapers-20052021  
+- Link: [https://www.kaggle.com/datasets/vyhuholl/japanese-newspapers-20052021](https://www.kaggle.com/datasets/vyhuholl/japanese-newspapers-20052021?select=japanese_news.csv)  
 - Subset used: `japanese_news.csv`
 
 The dataset contains Japanese news articles with the following fields:
