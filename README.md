@@ -33,4 +33,5 @@ cs4412-project/
 ├── data/ # Dataset files (or placeholders if large)
 ├── notebooks/ # Analysis notebooks (future milestones)
 ├── README.md
+├── docs/ # Contains project proposal
 ```
