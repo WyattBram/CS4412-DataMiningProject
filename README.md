@@ -31,7 +31,22 @@ The dataset contains Japanese news articles with the following fields:
 ```
 cs4412-project/
 ├── data/ # Dataset files (or placeholders if large)
-├── notebooks/ # Analysis notebooks (future milestones)
+├── notebooks/ # Analysis notebooks (preprocessing, EDA, clustering)
 ├── README.md
 ├── docs/ # Contains project proposal
 ```
+
+## Current Status (Milestone 2)
+- Implemented Japanese tokenization with fugashi/MeCab and custom stopword filtering.
+- Performed exploratory analysis with histograms of article lengths, source counts, and top tokens.
+- Built TF IDF document vectors and applied K-Means clustering to discover high-level themes (e.g., politics, finance, local/disaster news, crime, and sports) in the news corpus.
+
+## Needed installs
+ - You must run the notebook in a venv
+### Installs
+ - pip install pandas numpy
+ - pip install "fugashi[unidic-lite]"      
+ - pip install scikit-learn               
+ - pip install matplotlib  
+ - pip install jupyter                     
+ - pip install mlxtend  
