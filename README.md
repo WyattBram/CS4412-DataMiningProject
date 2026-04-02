@@ -36,10 +36,11 @@ cs4412-project/
 ├── docs/ # Contains project proposal
 ```
 
-## Current Status (Milestone 2)
+## Current Status (Milestone 2–3)
 - Implemented Japanese tokenization with fugashi/MeCab and custom stopword filtering.
 - Performed exploratory analysis with histograms of article lengths, source counts, and top tokens.
 - Built TF IDF document vectors and applied K-Means clustering to discover high-level themes (e.g., politics, finance, local/disaster news, crime, and sports) in the news corpus.
+- **Q2 (association rules):** Each article is treated as a market-basket transaction over content tokens; the notebook runs Apriori and ranks association rules by lift, with a bar chart of the top rules. See the **Q2** section in `notebooks/DataMining.ipynb`.
 
 ## Needed installs
  - You must run the notebook in a venv
